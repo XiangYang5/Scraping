@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 16 20:53:29 2018
 
-@author: Harsh Kava
+@author: Xiang Yang
 """
 
 from bs4 import BeautifulSoup
